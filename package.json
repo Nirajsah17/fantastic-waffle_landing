@@ -1,0 +1,20 @@
+{
+  "name": "omegle-like-app",
+  "type": "module",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.1.1",
+    "@astrojs/tailwind": "^5.1.0",
+    "astro": "^4.5.3",
+    "tailwindcss": "^3.4.1",
+    "aos": "^2.3.4"
+  }
+}
