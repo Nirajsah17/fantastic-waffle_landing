@@ -3,7 +3,7 @@ import tailwind from '@astrojs/tailwind';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  site: 'https://your-domain.com',
+  site: 'https://nirajsah17.github.io/fantastic-waffle_landing/',
   integrations: [
     tailwind(),
     sitemap()
