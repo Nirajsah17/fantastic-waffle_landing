@@ -55,10 +55,10 @@ function App() {
               ))}
               <button className="relative inline-flex items-center px-6 py-2 overflow-hidden text-white bg-blue-500 rounded-full group hover:scale-105 transition-all">
                 <span className="absolute left-0 w-0 h-full transition-all bg-purple-500 opacity-100 group-hover:w-full duration-300 ease-out"></span>
-                <span className="relative flex items-center">
+                <a href="https://app.chitchattalk.in" className="relative flex items-center">
                   Start Chatting
                   <ArrowRight className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform" />
-                </span>
+                </a>
               </button>
             </div>
           </div>
@@ -80,10 +80,10 @@ function App() {
           </p>
           <div className="flex flex-col md:flex-row justify-center items-center space-y-4 md:space-y-0 md:space-x-4">
             <button className="group relative px-8 py-4 bg-gradient-to-r from-blue-500 to-purple-500 rounded-full text-lg font-semibold transition transform hover:scale-105 hover:shadow-xl hover:shadow-blue-500/25">
-              <span className="relative z-10 flex items-center">
+              <a href="https://app.chitchattalk.in" className="relative z-10 flex items-center">
                 Start Chatting Now
                 <ArrowRight className="w-5 h-5 ml-2 group-hover:translate-x-1 transition-transform" />
-              </span>
+              </a>
             </button>
             <div className="flex items-center space-x-2 text-gray-400">
               <Globe2 className="w-5 h-5" />
