@@ -37,9 +37,9 @@ function App() {
                 <MessageCircle className="w-8 h-8 text-blue-400" />
                 <span className="absolute -top-1 -right-1 w-3 h-3 bg-green-400 rounded-full animate-ping"></span>
               </div>
-              <span className="text-xl font-bold bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 text-transparent bg-clip-text">
+              <h1 className="text-xl font-bold bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 text-transparent bg-clip-text">
                 ChitChatTalk
-              </span>
+              </h1>
             </div>
             
             <div className="hidden md:flex items-center space-x-8">
