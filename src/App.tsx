@@ -235,9 +235,9 @@ function App() {
             <div>
               <h4 className="text-lg font-semibold mb-4">Connect</h4>
               <ul className="space-y-2 text-gray-400">
-                <li>Email: support@chitchattalk.in</li>
-                <li>Advertising: ads@chitchattalk.in</li>
-                <li>Phone: +91 (XXX) XXX-XXXX</li>
+                <li>Email: business.chitchattalk@gmail.com</li>
+                <li>Advertising: business.chitchattalk@gmail.com</li>
+                <li><a href='https://www.instagram.com/chitchattalk.in/'>Instgram</a></li>
               </ul>
             </div>
           </div>
